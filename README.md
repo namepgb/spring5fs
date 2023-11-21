@@ -1,6 +1,4 @@
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=namepgb&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/namepgb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namepgb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<hr />
 
 ## TOC
 - [Preview](#preview)
